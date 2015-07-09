@@ -1,0 +1,3 @@
+[submodule "svn-git-submodule"]
+	path = svn-git-submodule
+	url = git@github.com:golsby/svn-git-submodule.git
